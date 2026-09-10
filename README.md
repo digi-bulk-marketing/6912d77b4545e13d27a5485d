@@ -1,9 +1,14 @@
 # SenderX360
 
-- Rebranding ID: 6912d77b4545e13d27a5485d
-- User ID: 63f344719f778755122f4456
-- App name: SenderX360
-- Product name: Button Sender
+SenderX360 by SenderX360.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/2120f0b9-7387-4e7c-8029-d279f5248946.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/2120f0b9-7387-4e7c-8029-d279f5248946.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/6912d77b4545e13d27a5485d/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **SenderX360** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/6912d77b4545e13d27a5485d/releases/latest) and reinstall.
